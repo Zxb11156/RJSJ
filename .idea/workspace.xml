@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7f4c504-d59c-4948-83cf-b1bb6c56831b" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MmG7uhI72tqk40cjFLE8wiuI8U" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/IDEA/RJSJ",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "vcs.Git"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA\RJSJ\src\main\java\代理模式\M_组合" />
+      <recent name="D:\IDEA\RJSJ\src\main\java\代理模式\c_抽象工厂" />
+      <recent name="D:\IDEA\RJSJ\src\main\java\代理模式\d_工厂方法" />
+      <recent name="D:\IDEA\RJSJ\src\main\java\代理模式\K_适配器" />
+      <recent name="D:\IDEA\RJSJ\src\main\java\代理模式\L_桥接" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="作业.作业2_2" />
+      <recent name="作业.作业2_1" />
+      <recent name="实验.实验2.适配器模式.对象适配器" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.访问者">
+    <configuration name="访问者" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="代理模式.e_访问者.访问者" />
+      <module name="RJSJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="代理模式.e_访问者.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="代理模式.H_建造者.Client" />
+      <module name="RJSJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="代理模式.H_建造者.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="实验.实验3.观察者模式.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="实验.实验3.观察者模式.Test" />
+      <module name="RJSJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="实验.实验3.观察者模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="代理模式.M_组合.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="代理模式.M_组合.Client" />
+      <module name="RJSJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="代理模式.M_组合.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="代理模式.c_抽象工厂.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="代理模式.c_抽象工厂.Main" />
+      <module name="RJSJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="代理模式.c_抽象工厂.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.31" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="RJSJ:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/RJSJ_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="RJSJ:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.访问者" />
+        <item itemvalue="应用程序.代理模式.M_组合.Client" />
+        <item itemvalue="应用程序.Client" />
+        <item itemvalue="应用程序.实验.实验3.观察者模式.Test" />
+        <item itemvalue="应用程序.代理模式.c_抽象工厂.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="c7f4c504-d59c-4948-83cf-b1bb6c56831b" name="变更" comment="" />
+      <created>1678365181906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678365181906</updated>
+      <workItem from="1678365183371" duration="8830000" />
+      <workItem from="1678431903927" duration="6418000" />
+      <workItem from="1678886210354" duration="6423000" />
+      <workItem from="1678955412663" duration="596000" />
+      <workItem from="1679405122385" duration="1510000" />
+      <workItem from="1679561410847" duration="8570000" />
+      <workItem from="1680789153925" duration="2502000" />
+      <workItem from="1681051991338" duration="1517000" />
+      <workItem from="1681103700425" duration="214000" />
+      <workItem from="1684590005721" duration="2302000" />
+      <workItem from="1684642397046" duration="3752000" />
+      <workItem from="1684909270306" duration="9386000" />
+      <workItem from="1684934635060" duration="3450000" />
+      <workItem from="1684980818982" duration="8266000" />
+      <workItem from="1685009070109" duration="54000" />
+      <workItem from="1685802699854" duration="27000" />
+      <workItem from="1688722673865" duration="285000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

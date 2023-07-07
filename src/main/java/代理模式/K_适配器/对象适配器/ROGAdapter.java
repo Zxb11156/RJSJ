@@ -1,0 +1,16 @@
+package 代理模式.K_适配器.对象适配器;
+
+public class ROGAdapter implements Computer {
+
+    private ROG rog;
+
+    public ROGAdapter(ROG rog) {
+        this.rog = rog;
+    }
+
+    @Override
+    public void Msg() {
+        rog.msg();
+        System.out.println("败家之眼！");
+    }
+}
